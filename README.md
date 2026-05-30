@@ -87,9 +87,9 @@ pip install numpy scipy
 ```
 Adaptive_Skeleton_Aware_Framework/
 │
-├── CAD_Unet_Multiclass_(Skeleton_Loss)_adaptive_weights.ipynb   # Proposed
-├── CAD_Unet_Multiclass_(Skeleton_Loss).ipynb                    # Fixed skeleton
-├── CAD_Unet_Multiclass_Baseline.ipynb                           # Baseline
+├── CAD_Unet_Multiclass_Adaptive_Skeleton_Loss.ipynb   # Proposed
+├── CAD_Unet_Multiclass_Skeleton_Loss.ipynb            # Fixed skeleton
+├── CAD_Unet_Multiclass.ipynb                          # Baseline
 │
 └── README.md
 ```
