@@ -55,7 +55,7 @@ Fixed-weight skeleton supervision was found to destabilize training — the skel
 
 ## Dataset
 
-- **Dataset:** [TopCoW Challenge](https://topbrain2025.grand-challenge.org/) — CTA and MRA volumes of the Circle of Willis
+- **Dataset:** [TopBrain Challenge](https://topbrain2025.grand-challenge.org/) — CTA and MRA volumes of the Circle of Willis
 - **Task:** Multiclass segmentation of cerebrovascular anatomy
 - **Split:** 8 held-out CTA volumes for validation 
 
