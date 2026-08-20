@@ -104,7 +104,3 @@ Adaptive_Skeleton_Aware_Framework/
 - Yang et al. (2023). *Benchmarking the CoW with the TopCoW Challenge.* arXiv:2312.17670
 
 ---
-
-## Author
-
-**Prabhjot Kumar** — M.Sc. / Research Project
